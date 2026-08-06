@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-y2h6pj.cossoadv.com.br/sitemap.xml
